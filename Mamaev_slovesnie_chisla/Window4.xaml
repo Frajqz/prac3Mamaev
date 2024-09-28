@@ -1,0 +1,24 @@
+﻿<Window x:Class="Mamaev_slovesnie_chisla.Window4"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Mamaev_slovesnie_chisla"
+        mc:Ignorable="d"
+        Title="Window4" Height="450" Width="800">
+    <Grid>
+        <StackPanel Margin="10">
+            <Button Name="GenerateButton" Content="Сгенерировать массив" Click="GenerateButton_Click" Width="150" />
+            <TextBlock Name="OriginalArrayTextBlock" Margin="0,10,0,10" TextWrapping="Wrap" />
+            <TextBlock Name="SortedAscendingTextBlock" Margin="0,10,0,10" TextWrapping="Wrap" />
+            <TextBlock Name="SortedDescendingTextBlock" Margin="0,10,0,10" TextWrapping="Wrap" />
+            <TextBlock Name="MinMaxTextBlock" Margin="0,10,0,10" TextWrapping="Wrap" />
+        </StackPanel>
+
+        <Button x:Name="btnback" Content="Назад" Margin="321,387,344,10" RenderTransformOrigin="0.589,0.514" Click="btnback_Click"/>
+        
+
+
+
+    </Grid>
+</Window>

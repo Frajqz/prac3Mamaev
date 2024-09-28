@@ -1,0 +1,196 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mamae\\source\\repos\\Mamaev_slovesnie_chisla\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5253356-A770-41CD-83CF-61ADE55F5F78}|Mamaev_slovesnie_chisla\\Mamaev_slovesnie_chisla.csproj|c:\\users\\mamae\\source\\repos\\mamaev_slovesnie_chisla\\mamaev_slovesnie_chisla\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5253356-A770-41CD-83CF-61ADE55F5F78}|Mamaev_slovesnie_chisla\\Mamaev_slovesnie_chisla.csproj|solutionrelative:mamaev_slovesnie_chisla\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5253356-A770-41CD-83CF-61ADE55F5F78}|Mamaev_slovesnie_chisla\\Mamaev_slovesnie_chisla.csproj|C:\\Users\\mamae\\source\\repos\\Mamaev_slovesnie_chisla\\mamaev_slovesnie_chisla\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D5253356-A770-41CD-83CF-61ADE55F5F78}|Mamaev_slovesnie_chisla\\Mamaev_slovesnie_chisla.csproj|solutionrelative:mamaev_slovesnie_chisla\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5253356-A770-41CD-83CF-61ADE55F5F78}|Mamaev_slovesnie_chisla\\Mamaev_slovesnie_chisla.csproj|C:\\Users\\mamae\\source\\repos\\Mamaev_slovesnie_chisla\\mamaev_slovesnie_chisla\\window2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D5253356-A770-41CD-83CF-61ADE55F5F78}|Mamaev_slovesnie_chisla\\Mamaev_slovesnie_chisla.csproj|solutionrelative:mamaev_slovesnie_chisla\\window2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5253356-A770-41CD-83CF-61ADE55F5F78}|Mamaev_slovesnie_chisla\\Mamaev_slovesnie_chisla.csproj|C:\\Users\\mamae\\source\\repos\\Mamaev_slovesnie_chisla\\mamaev_slovesnie_chisla\\window4.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5253356-A770-41CD-83CF-61ADE55F5F78}|Mamaev_slovesnie_chisla\\Mamaev_slovesnie_chisla.csproj|solutionrelative:mamaev_slovesnie_chisla\\window4.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5253356-A770-41CD-83CF-61ADE55F5F78}|Mamaev_slovesnie_chisla\\Mamaev_slovesnie_chisla.csproj|C:\\Users\\mamae\\source\\repos\\Mamaev_slovesnie_chisla\\mamaev_slovesnie_chisla\\window3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D5253356-A770-41CD-83CF-61ADE55F5F78}|Mamaev_slovesnie_chisla\\Mamaev_slovesnie_chisla.csproj|solutionrelative:mamaev_slovesnie_chisla\\window3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5253356-A770-41CD-83CF-61ADE55F5F78}|Mamaev_slovesnie_chisla\\Mamaev_slovesnie_chisla.csproj|C:\\Users\\mamae\\source\\repos\\Mamaev_slovesnie_chisla\\mamaev_slovesnie_chisla\\window2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5253356-A770-41CD-83CF-61ADE55F5F78}|Mamaev_slovesnie_chisla\\Mamaev_slovesnie_chisla.csproj|solutionrelative:mamaev_slovesnie_chisla\\window2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5253356-A770-41CD-83CF-61ADE55F5F78}|Mamaev_slovesnie_chisla\\Mamaev_slovesnie_chisla.csproj|C:\\Users\\mamae\\source\\repos\\Mamaev_slovesnie_chisla\\mamaev_slovesnie_chisla\\window4.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D5253356-A770-41CD-83CF-61ADE55F5F78}|Mamaev_slovesnie_chisla\\Mamaev_slovesnie_chisla.csproj|solutionrelative:mamaev_slovesnie_chisla\\window4.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5253356-A770-41CD-83CF-61ADE55F5F78}|Mamaev_slovesnie_chisla\\Mamaev_slovesnie_chisla.csproj|C:\\Users\\mamae\\source\\repos\\Mamaev_slovesnie_chisla\\mamaev_slovesnie_chisla\\window3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5253356-A770-41CD-83CF-61ADE55F5F78}|Mamaev_slovesnie_chisla\\Mamaev_slovesnie_chisla.csproj|solutionrelative:mamaev_slovesnie_chisla\\window3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5253356-A770-41CD-83CF-61ADE55F5F78}|Mamaev_slovesnie_chisla\\Mamaev_slovesnie_chisla.csproj|C:\\Users\\mamae\\source\\repos\\Mamaev_slovesnie_chisla\\mamaev_slovesnie_chisla\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D5253356-A770-41CD-83CF-61ADE55F5F78}|Mamaev_slovesnie_chisla\\Mamaev_slovesnie_chisla.csproj|solutionrelative:mamaev_slovesnie_chisla\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5253356-A770-41CD-83CF-61ADE55F5F78}|Mamaev_slovesnie_chisla\\Mamaev_slovesnie_chisla.csproj|C:\\Users\\mamae\\source\\repos\\Mamaev_slovesnie_chisla\\mamaev_slovesnie_chisla\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5253356-A770-41CD-83CF-61ADE55F5F78}|Mamaev_slovesnie_chisla\\Mamaev_slovesnie_chisla.csproj|solutionrelative:mamaev_slovesnie_chisla\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mamae\\source\\repos\\Mamaev_slovesnie_chisla\\Mamaev_slovesnie_chisla\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Mamaev_slovesnie_chisla\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\mamae\\source\\repos\\Mamaev_slovesnie_chisla\\Mamaev_slovesnie_chisla\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Mamaev_slovesnie_chisla\\MainWindow.xaml.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAqwEMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T08:14:41.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Window2.xaml",
+              "DocumentMoniker": "C:\\Users\\mamae\\source\\repos\\Mamaev_slovesnie_chisla\\Mamaev_slovesnie_chisla\\Window2.xaml",
+              "RelativeDocumentMoniker": "Mamaev_slovesnie_chisla\\Window2.xaml",
+              "ToolTip": "C:\\Users\\mamae\\source\\repos\\Mamaev_slovesnie_chisla\\Mamaev_slovesnie_chisla\\Window2.xaml",
+              "RelativeToolTip": "Mamaev_slovesnie_chisla\\Window2.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-26T08:47:05.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Window4.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mamae\\source\\repos\\Mamaev_slovesnie_chisla\\Mamaev_slovesnie_chisla\\Window4.xaml.cs",
+              "RelativeDocumentMoniker": "Mamaev_slovesnie_chisla\\Window4.xaml.cs",
+              "ToolTip": "C:\\Users\\mamae\\source\\repos\\Mamaev_slovesnie_chisla\\Mamaev_slovesnie_chisla\\Window4.xaml.cs",
+              "RelativeToolTip": "Mamaev_slovesnie_chisla\\Window4.xaml.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAcwGMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T09:34:22.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Window4.xaml",
+              "DocumentMoniker": "C:\\Users\\mamae\\source\\repos\\Mamaev_slovesnie_chisla\\Mamaev_slovesnie_chisla\\Window4.xaml",
+              "RelativeDocumentMoniker": "Mamaev_slovesnie_chisla\\Window4.xaml",
+              "ToolTip": "C:\\Users\\mamae\\source\\repos\\Mamaev_slovesnie_chisla\\Mamaev_slovesnie_chisla\\Window4.xaml",
+              "RelativeToolTip": "Mamaev_slovesnie_chisla\\Window4.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-27T09:31:48.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Window1.xaml",
+              "DocumentMoniker": "C:\\Users\\mamae\\source\\repos\\Mamaev_slovesnie_chisla\\Mamaev_slovesnie_chisla\\Window1.xaml",
+              "RelativeDocumentMoniker": "Mamaev_slovesnie_chisla\\Window1.xaml",
+              "ToolTip": "C:\\Users\\mamae\\source\\repos\\Mamaev_slovesnie_chisla\\Mamaev_slovesnie_chisla\\Window1.xaml",
+              "RelativeToolTip": "Mamaev_slovesnie_chisla\\Window1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-25T08:49:06.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Window3.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mamae\\source\\repos\\Mamaev_slovesnie_chisla\\Mamaev_slovesnie_chisla\\Window3.xaml.cs",
+              "RelativeDocumentMoniker": "Mamaev_slovesnie_chisla\\Window3.xaml.cs",
+              "ToolTip": "C:\\Users\\mamae\\source\\repos\\Mamaev_slovesnie_chisla\\Mamaev_slovesnie_chisla\\Window3.xaml.cs",
+              "RelativeToolTip": "Mamaev_slovesnie_chisla\\Window3.xaml.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAawFoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T09:02:08.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Window3.xaml",
+              "DocumentMoniker": "C:\\Users\\mamae\\source\\repos\\Mamaev_slovesnie_chisla\\Mamaev_slovesnie_chisla\\Window3.xaml",
+              "RelativeDocumentMoniker": "Mamaev_slovesnie_chisla\\Window3.xaml",
+              "ToolTip": "C:\\Users\\mamae\\source\\repos\\Mamaev_slovesnie_chisla\\Mamaev_slovesnie_chisla\\Window3.xaml",
+              "RelativeToolTip": "Mamaev_slovesnie_chisla\\Window3.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-26T08:59:22.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Window2.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mamae\\source\\repos\\Mamaev_slovesnie_chisla\\Mamaev_slovesnie_chisla\\Window2.xaml.cs",
+              "RelativeDocumentMoniker": "Mamaev_slovesnie_chisla\\Window2.xaml.cs",
+              "ToolTip": "C:\\Users\\mamae\\source\\repos\\Mamaev_slovesnie_chisla\\Mamaev_slovesnie_chisla\\Window2.xaml.cs",
+              "RelativeToolTip": "Mamaev_slovesnie_chisla\\Window2.xaml.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwDkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T08:56:02.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Window1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mamae\\source\\repos\\Mamaev_slovesnie_chisla\\Mamaev_slovesnie_chisla\\Window1.xaml.cs",
+              "RelativeDocumentMoniker": "Mamaev_slovesnie_chisla\\Window1.xaml.cs",
+              "ToolTip": "C:\\Users\\mamae\\source\\repos\\Mamaev_slovesnie_chisla\\Mamaev_slovesnie_chisla\\Window1.xaml.cs",
+              "RelativeToolTip": "Mamaev_slovesnie_chisla\\Window1.xaml.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAcwEoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:17:14.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\mamae\\source\\repos\\Mamaev_slovesnie_chisla\\Mamaev_slovesnie_chisla\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Mamaev_slovesnie_chisla\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\mamae\\source\\repos\\Mamaev_slovesnie_chisla\\Mamaev_slovesnie_chisla\\MainWindow.xaml",
+              "RelativeToolTip": "Mamaev_slovesnie_chisla\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-25T08:14:43.903Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
